@@ -1,0 +1,2 @@
+# The-Chaos-Game
+This project was created in python. The inspiration for this project came from the Youtube channel Numberphile https://www.youtube.com/watch?v=kbKtFN71Lfs&t=18s their video will be able to explain the concept better than I can here. In the python shell, the user can select from 4 different shapes to play the game in. This program uses turtle graphics to display the fractals to the user.
